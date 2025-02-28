@@ -15,4 +15,4 @@
 7. Move the `index.html` file into the `web` folder.
 8. Move the generated folder `out` into the `web` folder.
 9. Copy your `assets` folder if any into the `web` folder.
-10. Go to `web` folder and run command `npx serve`.
+10. Go to `web` folder and run command `python3 -m http.server 3000`.
