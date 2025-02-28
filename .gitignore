@@ -1,4 +1,5 @@
 /target
 /web
+/out
 Cargo.lock
 .DS_Store
